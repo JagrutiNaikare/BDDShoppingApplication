@@ -1,0 +1,70 @@
+2022-06-20 03:57:43 INFO  CheckoutPageStepDefination:32 - Execution Started : I add "4" random items to my cart
+2022-06-20 03:57:46 INFO  CheckoutPageStepDefination:42 - Execution Finished : I add "4" random items to my cart
+2022-06-20 03:57:46 INFO  CheckoutPageStepDefination:51 - Execution Started : I view my cart
+2022-06-20 03:57:47 INFO  CheckoutPageStepDefination:53 - Execution Finished : I view my cart
+2022-06-20 03:57:47 INFO  CartPageStepDefination:38 - Execution Started : I found total "3" items listed in my cart
+2022-06-20 03:57:48 INFO  CartPageStepDefination:44 - Execution Finished: I found total "3" items listed in my cart 
+2022-06-20 03:57:48 INFO  CartPageStepDefination:94 - Execution Started :I search for lowest price item
+2022-06-20 03:57:48 INFO  CartPageStepDefination:106 - Execution Finished :I search for lowest price item
+2022-06-20 03:57:48 INFO  CartPageStepDefination:80 - Execution Started : I am able to remove lowest price item from my cart
+2022-06-20 03:57:49 INFO  CartPageStepDefination:62 - Execution Started : I am able to verify "2" items in my cart
+2022-06-20 04:07:53 INFO  CheckoutPageStepDefination:32 - Execution Started : I add "4" random items to my cart
+2022-06-20 04:07:56 INFO  CheckoutPageStepDefination:42 - Execution Finished : I add "4" random items to my cart
+2022-06-20 04:07:56 INFO  CheckoutPageStepDefination:51 - Execution Started : I view my cart
+2022-06-20 04:07:58 INFO  CheckoutPageStepDefination:53 - Execution Finished : I view my cart
+2022-06-20 04:07:58 INFO  CartPageStepDefination:38 - Execution Started : I found total "3" items listed in my cart
+2022-06-20 04:07:58 INFO  CartPageStepDefination:44 - Execution Finished: I found total "3" items listed in my cart 
+2022-06-20 04:07:58 INFO  CartPageStepDefination:94 - Execution Started :I search for lowest price item
+2022-06-20 04:07:58 INFO  CartPageStepDefination:106 - Execution Finished :I search for lowest price item
+2022-06-20 04:07:58 INFO  CartPageStepDefination:80 - Execution Started : I am able to remove lowest price item from my cart
+2022-06-20 04:08:00 INFO  CartPageStepDefination:62 - Execution Started : I am able to verify "2" items in my cart
+2022-06-20 04:08:47 INFO  CheckoutPageStepDefination:32 - Execution Started : I add "4" random items to my cart
+2022-06-20 04:08:50 INFO  CheckoutPageStepDefination:42 - Execution Finished : I add "4" random items to my cart
+2022-06-20 04:08:50 INFO  CheckoutPageStepDefination:51 - Execution Started : I view my cart
+2022-06-20 04:08:52 INFO  CheckoutPageStepDefination:53 - Execution Finished : I view my cart
+2022-06-20 04:08:52 INFO  CartPageStepDefination:38 - Execution Started : I found total "3" items listed in my cart
+2022-06-20 04:08:52 INFO  CartPageStepDefination:44 - Execution Finished: I found total "3" items listed in my cart 
+2022-06-20 04:08:52 INFO  CartPageStepDefination:94 - Execution Started :I search for lowest price item
+2022-06-20 04:08:52 INFO  CartPageStepDefination:106 - Execution Finished :I search for lowest price item
+2022-06-20 04:08:52 INFO  CartPageStepDefination:80 - Execution Started : I am able to remove lowest price item from my cart
+2022-06-20 04:08:53 INFO  CartPageStepDefination:62 - Execution Started : I am able to verify "2" items in my cart
+2022-06-20 04:17:46 INFO  CheckoutPageStepDefination:32 - Execution Started : I add "4" random items to my cart
+2022-06-20 04:17:49 INFO  CheckoutPageStepDefination:42 - Execution Finished : I add "4" random items to my cart
+2022-06-20 04:17:49 INFO  CheckoutPageStepDefination:51 - Execution Started : I view my cart
+2022-06-20 04:17:50 INFO  CheckoutPageStepDefination:53 - Execution Finished : I view my cart
+2022-06-20 04:17:50 INFO  CartPageStepDefination:38 - Execution Started : I found total "3" items listed in my cart
+2022-06-20 04:17:50 INFO  CartPageStepDefination:44 - Execution Finished: I found total "3" items listed in my cart 
+2022-06-20 04:17:50 INFO  CartPageStepDefination:94 - Execution Started :I search for lowest price item
+2022-06-20 04:17:50 INFO  CartPageStepDefination:106 - Execution Finished :I search for lowest price item
+2022-06-20 04:17:50 INFO  CartPageStepDefination:80 - Execution Started : I am able to remove lowest price item from my cart
+2022-06-20 04:17:52 INFO  CartPageStepDefination:62 - Execution Started : I am able to verify "2" items in my cart
+2022-06-20 04:18:47 INFO  CheckoutPageStepDefination:32 - Execution Started : I add "4" random items to my cart
+2022-06-20 04:18:50 INFO  CheckoutPageStepDefination:42 - Execution Finished : I add "4" random items to my cart
+2022-06-20 04:18:50 INFO  CheckoutPageStepDefination:51 - Execution Started : I view my cart
+2022-06-20 04:18:52 INFO  CheckoutPageStepDefination:53 - Execution Finished : I view my cart
+2022-06-20 04:18:52 INFO  CartPageStepDefination:38 - Execution Started : I found total "3" items listed in my cart
+2022-06-20 04:18:52 INFO  CartPageStepDefination:44 - Execution Finished: I found total "3" items listed in my cart 
+2022-06-20 04:18:52 INFO  CartPageStepDefination:94 - Execution Started :I search for lowest price item
+2022-06-20 04:18:52 INFO  CartPageStepDefination:106 - Execution Finished :I search for lowest price item
+2022-06-20 04:18:52 INFO  CartPageStepDefination:80 - Execution Started : I am able to remove lowest price item from my cart
+2022-06-20 04:18:53 INFO  CartPageStepDefination:62 - Execution Started : I am able to verify "2" items in my cart
+2022-06-20 04:55:21 INFO  CheckoutPageStepDefination:32 - Execution Started : I add "4" random items to my cart
+2022-06-20 04:55:23 INFO  CheckoutPageStepDefination:42 - Execution Finished : I add "4" random items to my cart
+2022-06-20 04:55:23 INFO  CheckoutPageStepDefination:51 - Execution Started : I view my cart
+2022-06-20 04:55:25 INFO  CheckoutPageStepDefination:53 - Execution Finished : I view my cart
+2022-06-20 04:55:25 INFO  CartPageStepDefination:38 - Execution Started : I found total "3" items listed in my cart
+2022-06-20 04:55:25 INFO  CartPageStepDefination:44 - Execution Finished: I found total "3" items listed in my cart 
+2022-06-20 04:55:25 INFO  CartPageStepDefination:94 - Execution Started :I search for lowest price item
+2022-06-20 04:55:25 INFO  CartPageStepDefination:106 - Execution Finished :I search for lowest price item
+2022-06-20 04:55:25 INFO  CartPageStepDefination:80 - Execution Started : I am able to remove lowest price item from my cart
+2022-06-20 04:55:26 INFO  CartPageStepDefination:62 - Execution Started : I am able to verify "2" items in my cart
+2022-06-20 05:02:45 INFO  CheckoutPageStepDefination:32 - Execution Started : I add "4" random items to my cart
+2022-06-20 05:02:48 INFO  CheckoutPageStepDefination:42 - Execution Finished : I add "4" random items to my cart
+2022-06-20 05:02:48 INFO  CheckoutPageStepDefination:51 - Execution Started : I view my cart
+2022-06-20 05:02:49 INFO  CheckoutPageStepDefination:53 - Execution Finished : I view my cart
+2022-06-20 05:02:49 INFO  CartPageStepDefination:38 - Execution Started : I found total "3" items listed in my cart
+2022-06-20 05:02:49 INFO  CartPageStepDefination:44 - Execution Finished: I found total "3" items listed in my cart 
+2022-06-20 05:02:49 INFO  CartPageStepDefination:94 - Execution Started :I search for lowest price item
+2022-06-20 05:02:49 INFO  CartPageStepDefination:106 - Execution Finished :I search for lowest price item
+2022-06-20 05:02:49 INFO  CartPageStepDefination:80 - Execution Started : I am able to remove lowest price item from my cart
+2022-06-20 05:02:51 INFO  CartPageStepDefination:62 - Execution Started : I am able to verify "2" items in my cart
